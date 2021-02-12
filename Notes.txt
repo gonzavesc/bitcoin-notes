@@ -17,3 +17,4 @@ Lightning: Open a channel between people and it enables faster and cheaper trans
 Fun websites:
 View average fee: https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
 View Mempool: https://mempool.observer/
+To install bitcoin node: https://bitcoincore.org/en/download/
