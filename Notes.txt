@@ -1,0 +1,12 @@
+HD: Hierarchical Deterministic, means that the addresses change and are derived from an extended pub key and and extended priv key.
+
+Types of wallets:
+
+BIP44 refers to the accepted common standard to derive non segwit addresses. These addresses always begin with a 1.
+
+BIP49 refers to the accepted common standard of deriving segwit "compatibility" addresses. These addresses begin with a 3.
+
+BIP84 refers to the accepted common standard of deriving native segwit addresses. These addresses always begin with bc1 - and are referred to bech32 addresses.
+
+
+SegWit: Soft fork, to add security and reduce transaction size and fees.
