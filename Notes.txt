@@ -12,3 +12,8 @@ BIP84 refers to the accepted common standard of deriving native segwit addresses
 SegWit: Soft fork, to add security and reduce transaction size and fees.
 
 Lightning: Open a channel between people and it enables faster and cheaper transactions.
+
+
+Fun websites:
+View average fee: https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
+View Mempool: https://mempool.observer/
