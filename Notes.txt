@@ -18,3 +18,4 @@ Fun websites:
 View average fee: https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
 View Mempool: https://mempool.observer/
 To install bitcoin node: https://bitcoincore.org/en/download/
+How to use bitcoin-cli: https://livebook.manning.com/book/grokking-bitcoin/a-using-bitcoin-cli/v-6/1
